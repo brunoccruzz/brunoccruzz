@@ -43,7 +43,17 @@ Estou sempre em busca de aprender mais, participar de projetos desafiadores e ev
     style="padding-right: 10px;" 
     src="https://cdn-icons-png.flaticon.com/512/174/174855.png" 
   />
+<a href="https://seulink.com/curriculo.pdf" target="_blank">
+  <img 
+    align="left" 
+    alt="Currículo" 
+    title="Visualizar Currículo" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/3095/3095583.png" 
+  />
 </a>
+
 
 <br/><br/>
 
@@ -121,7 +131,7 @@ Estou sempre em busca de aprender mais, participar de projetos desafiadores e ev
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoccruzz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
