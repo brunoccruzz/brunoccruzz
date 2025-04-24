@@ -8,7 +8,9 @@ Estou sempre em busca de aprender mais, participar de projetos desafiadores e ev
 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.instagram.com/bruno23cruz/" target="_blank">
+  https://www.instagram.com/bruno23cruz/
+</a>
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
