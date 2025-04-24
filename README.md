@@ -7,9 +7,7 @@ Ao longo do curso, venho desenvolvendo diversas habilidades técnicas e prática
 Estou sempre em busca de aprender mais, participar de projetos desafiadores e evoluir.
 
 
-<p align="left">
-    <a href="https://www.instagram.com/bruno23cruz/" target="_blank">
-  https://www.instagram.com/bruno23cruz/
+
 </a>
         <img 
             alt="youtube subscribers" 
