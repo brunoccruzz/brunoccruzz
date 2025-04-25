@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Bruno Cruz
+## 👨🏻‍💻Bruno Cruz
 
 **`Estudante de Engenharia de Software`**
 
