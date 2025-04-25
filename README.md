@@ -33,25 +33,6 @@ Estou sempre em busca de aprender mais, participar de projetos desafiadores e ev
   />
 </a>
 
-<!-- Instagram -->
-<a href="https://www.instagram.com/bruno23cruz/" target="_blank">
-  <img 
-    align="left" 
-    alt="Instagram" 
-    title="Instagram" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/174/174855.png" 
-  />
-<a href="https://seulink.com/curriculo.pdf" target="_blank">
-  <img 
-    align="left" 
-    alt="Currículo" 
-    title="Visualizar Currículo" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/3095/3095583.png" 
-  />
 </a>
 
 
