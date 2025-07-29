@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-👋 Olá! Me chamo Bruno Cruz, tenho 20 anos e sou estudante de Engenharia de Software na PUC-Campinas, atualmente no 3º semestre.
+👋 Olá! Me chamo Bruno Cruz, tenho 20 anos e sou estudante de Engenharia de Software na PUC-Campinas, atualmente no 4º semestre.
 Ao longo do curso, venho desenvolvendo diversas habilidades técnicas e práticas, com foco em programação, desenvolvimento de sistemas e soluções inovadoras.
 Estou sempre em busca de aprender mais, participar de projetos desafiadores e evoluir.
 
