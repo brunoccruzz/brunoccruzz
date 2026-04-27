@@ -1,26 +1,23 @@
-## 👨🏻‍💻Bruno Cruz
+## 👨🏻‍💻 Bruno Cruz
 
 **`Estudante de Engenharia de Software`**
 
-👋 Olá! Me chamo Bruno Cruz, tenho 20 anos e sou estudante de Engenharia de Software na PUC-Campinas, atualmente no 4º semestre.
-Ao longo do curso, venho desenvolvendo diversas habilidades técnicas e práticas, com foco em programação, desenvolvimento de sistemas e soluções inovadoras.
-Estou sempre em busca de aprender mais, participar de projetos desafiadores e evoluir.
+👋 Olá! Me chamo Bruno Cruz, tenho 21 anos e sou estudante de Engenharia de Software na PUC-Campinas.  
+Busco constantemente evoluir tecnicamente, participar de projetos desafiadores e construir produtos reais.
 
+---
 
+### 🌐 Conecte-se comigo
 
-</a>
-       <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/brunoariasalvescruz/" target="_blank">
   <img 
     align="left" 
     alt="LinkedIn" 
     title="LinkedIn" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
   />
 </a>
-
 
 <a href="https://github.com/brunoccruzz" target="_blank">
   <img 
@@ -28,73 +25,58 @@ Estou sempre em busca de aprender mais, participar de projetos desafiadores e ev
     alt="GitHub" 
     title="GitHub" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
   />
 </a>
 
-</a>
+<br/>
+<br/>
 
+---
 
-<br/><br/>
+### 🤖 Tecnologias
 
+<img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas GitHub
+
+<p>
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=brunoccruzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+/>
+
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoccruzz&layout=compact&theme=tokyonight"
+/>
 </p>
 
 ---
 
-### 🤖 Linguagens aprendidas
+### 🔥 Sequência de contribuições
 
 <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+  src="https://streak-stats.demolab.com?user=brunoccruzz&theme=tokyonight&hide_border=false"
 />
 
-<br/>
-<br/>
+---
 
+### 📈 Gráfico de atividade
 
-
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=brunoccruzz&theme=tokyo-night"
+/>
