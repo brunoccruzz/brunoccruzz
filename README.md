@@ -1,82 +1,92 @@
-## 👨🏻‍💻 Bruno Cruz
+<div align="center">
 
-**`Estudante de Engenharia de Software`**
+# 👨🏻‍💻 Bruno Cruz
 
-👋 Olá! Me chamo Bruno Cruz, tenho 21 anos e sou estudante de Engenharia de Software na PUC-Campinas.  
-Busco constantemente evoluir tecnicamente, participar de projetos desafiadores e construir produtos reais.
+### 🚀 Estudante de Engenharia de Software | Full Stack Developer em evolução
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Bruno+Cruz!;Software+Engineering+Student;Apaixonado+por+Tecnologia;Construindo+Projetos+Reais" />
+
+</div>
 
 ---
 
-### 🌐 Conecte-se comigo
+## 👋 Sobre mim
+
+🎓 Tenho 21 anos e curso **Engenharia de Software na PUC-Campinas**.  
+💻 Focado em desenvolvimento web, programação e banco de dados.  
+🚀 Sempre buscando aprender novas tecnologias e construir soluções reais.  
+📚 Evolução constante através de projetos, desafios e prática diária.
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/brunoariasalvescruz/" target="_blank">
-  <img 
-    align="left" 
-    alt="LinkedIn" 
-    title="LinkedIn" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-  />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/brunoccruzz" target="_blank">
-  <img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-  />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
-<br/>
+</div>
 
 ---
 
-### 🤖 Tecnologias
+## 💻 Tecnologias
 
-<img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<div align="center">
 
-<br/>
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,python,git,postgresql,mysql,vscode" />
+
+</div>
 
 ---
 
-### 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
-<p>
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=brunoccruzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
+<div align="center">
 
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoccruzz&layout=compact&theme=tokyonight"
-/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoccruzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoccruzz&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 🔥 Sequência de contribuições
+## 🔥 Streak Stats
 
-<img 
-  src="https://streak-stats.demolab.com?user=brunoccruzz&theme=tokyonight&hide_border=false"
-/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=brunoccruzz&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 📈 Gráfico de atividade
+## 📈 Contribution Graph
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=brunoccruzz&theme=tokyo-night"
-/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunoccruzz&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Objetivo Atual
+
+✨ Conseguir estágio em tecnologia  
+✨ Evoluir como desenvolvedor Full Stack  
+✨ Construir projetos profissionais de alto nível
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+</div>
