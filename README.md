@@ -17,8 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20oportunidades-22c55e?style=flat-square&logo=statuspage&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Freelancer-Full%20Stack-3b82f6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sistemas%20em%20produ%C3%A7%C3%A3o-Brasil%20%26%20Canad%C3%A1-22c55e?style=flat-square&logo=rocket&logoColor=white"/>
   <img src="https://img.shields.io/badge/PUC--Campinas-Eng.%20de%20Software-1e3a8a?style=flat-square"/>
 </p>
 
@@ -28,7 +27,7 @@
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
 
-Desenvolvedor de software e estudante de **Engenharia de Software na PUC-Campinas**. Hoje atuo como **freelancer full stack**, construindo sistemas sob medida para pequenas empresas — do levantamento de requisitos ao deploy.
+Desenvolvedor de software e estudante de **Engenharia de Software na PUC-Campinas**. Construo sistemas **full stack** de ponta a ponta — do levantamento de requisitos ao deploy — que hoje rodam **em produção** para empresas no Brasil e no Canadá.
 
 - 🚀 Sistemas **em produção** usados por clientes reais (Brasil e Canadá)
 - 🔌 Integrações com **WhatsApp, SMS, APIs externas** e extração de dados de PDFs
@@ -44,7 +43,6 @@ const bruno = {
   stack: ["TypeScript", "Next.js", "Node.js", "PostgreSQL", "Docker"],
   focus: ["Sistemas Web", "APIs", "Integrações", "IA aplicada"],
   currently: "Construindo um ERP para casa de shows 🎤",
-  openTo: ["Estágio", "Freelas", "Projetos desafiadores"],
 };
 ```
 
@@ -88,8 +86,8 @@ const bruno = {
   <tr>
     <td width="50%" valign="top">
       <h3>🧑‍💻 Desenvolvedor de Software</h3>
-      <b>Autônomo · Freelance</b> &nbsp;|&nbsp; <i>abr/2026 – atual</i><br/><br/>
-      Sistemas full stack sob medida: requisitos, prototipação, modelagem de dados, integrações, testes e deploy.
+      <b>Full Stack</b> &nbsp;|&nbsp; <i>abr/2026 – atual</i><br/><br/>
+      Responsável por sistemas completos: requisitos, prototipação, modelagem de dados, integrações, testes e deploy.
       <ul>
         <li>ERP para casa de shows (perfis, estoque, caixa, financeiro por evento)</li>
         <li>Sistema de gestão para empresa no <b>Canadá</b> com SMS e WhatsApp</li>
@@ -206,8 +204,7 @@ const bruno = {
 
 - 🔭 Levando o **ERP da casa de shows** para produção
 - 🌱 Aprofundando em **arquitetura de software, IA aplicada e DevOps**
-- 🤝 Aberto a **estágio, freelas e colaborações**
-- 📫 Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/brunoariasalvescruz/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/brunoariasalvescruz/)
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
