@@ -12,7 +12,7 @@
 
 ## 👋 Sobre mim
 
-🎓 Tenho 21 anos e curso **Engenharia de Software na PUC-Campinas**.  
+🎓 Tenho 22 anos e curso **Engenharia de Software na PUC-Campinas**.  
 💻 Focado em desenvolvimento web, programação e banco de dados.  
 🚀 Sempre buscando aprender novas tecnologias e construir soluções reais.  
 📚 Evolução constante através de projetos, desafios e prática diária.
